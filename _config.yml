@@ -9,12 +9,12 @@ remote_theme: abhinavs/moonwalk
 theme_config:
   appearance: "dark"
   appearance_toggle: true
-  back_home_text: "home.."
+  back_home_text: "🏠 Home"
   date_format: "%Y-%m-%d"
   show_description: true
   show_navbar: true
-  show_footer: true
-  show_copyright: true
+  show_footer: false
+  show_copyright: false
   show_projects: false
   show_blog: false
   show_old_projects: false
